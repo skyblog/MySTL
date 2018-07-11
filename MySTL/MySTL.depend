@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1531238847 source:c:\users\user\desktop\杜思佳\代码实现\mystl\main.cpp
+	<iostream>
+	"Alloc.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"Functional.h"
+	"Allocator.h"
+	"vector.h"
+	"list.h"
+	"deque.h"
+	"stack.h"
+	"queue.h"
+	"Algorithm.h"
+	"priority_queue.h"
+	"slist.h"
+	"rb_tree.h"
+	"set.h"
+	"map.h"
+	"multimap.h"
+	"multiset.h"
+	"hash_table.h"
+	"hash_set.h"
+
+1529910020 source:c:\users\user\desktop\杜思佳\代码实现\mystl\src\alloc.cpp
+	"Alloc.h"
+
+1529909713 c:\users\user\desktop\杜思佳\代码实现\mystl\include\alloc.h
+	<cstdlib>
+
+1530262278 c:\users\user\desktop\杜思佳\代码实现\mystl\include\construct.h
+	<new>
+	"TypeTraits.h"
+	"Iterator.h"
+
+1530551010 c:\users\user\desktop\杜思佳\代码实现\mystl\include\typetraits.h
+
+1530550240 c:\users\user\desktop\杜思佳\代码实现\mystl\include\uninitializedfunction.h
+	<Algorithm>
+	<cstring>
+	"Construct.h"
+	"Iterator.h"
+	"TypeTraits.h"
+
+1530691925 c:\users\user\desktop\杜思佳\代码实现\mystl\include\iterator.h
+
+1529942318 c:\users\user\desktop\杜思佳\代码实现\mystl\include\allocator.h
+	"Alloc.h"
+	"Construct.h"
+	<cassert>
+	<new>
+	<stddef.h>
+
+1530004109 source:c:\users\user\desktop\杜思佳\代码实现\mystl\src\vector.cpp
+	"vector.h"
+
+1531231311 c:\users\user\desktop\杜思佳\代码实现\mystl\include\vector.h
+	"Allocator.h"
+	"Iterator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+
+1530685412 c:\users\user\desktop\杜思佳\代码实现\mystl\include\list.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+
+1530681668 c:\users\user\desktop\杜思佳\代码实现\mystl\include\deque.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+
+1530682154 c:\users\user\desktop\杜思佳\代码实现\mystl\include\stack.h
+	"deque.h"
+
+1530689996 c:\users\user\desktop\杜思佳\代码实现\mystl\include\queue.h
+	"deque.h"
+
+1531155036 c:\users\user\desktop\杜思佳\代码实现\mystl\include\algorithm.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Iterator.h"
+
+1530724515 c:\users\user\desktop\杜思佳\代码实现\mystl\include\priority_queue.h
+	"vector.h"
+	"Functional.h"
+	"Algorithm.h"
+
+1531223548 c:\users\user\desktop\杜思佳\代码实现\mystl\include\functional.h
+
+1530763784 c:\users\user\desktop\杜思佳\代码实现\mystl\include\slist.h
+
+1531124054 c:\users\user\desktop\杜思佳\代码实现\mystl\include\rb_tree.h
+	"Allocator.h"
+	"Iterator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"pair.h"
+	"Functional.h"
+
+1530948290 c:\users\user\desktop\杜思佳\代码实现\mystl\include\pair.h
+
+1531241047 c:\users\user\desktop\杜思佳\代码实现\mystl\include\set.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"rb_tree.h"
+	"pair.h"
+
+1531122163 c:\users\user\desktop\杜思佳\代码实现\mystl\include\map.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"rb_tree.h"
+	"pair.h"
+
+1531123244 c:\users\user\desktop\杜思佳\代码实现\mystl\include\multimap.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"rb_tree.h"
+	"pair.h"
+
+1531123031 c:\users\user\desktop\杜思佳\代码实现\mystl\include\multiset.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"rb_tree.h"
+	"pair.h"
+
+1531241807 c:\users\user\desktop\杜思佳\代码实现\mystl\include\hash_table.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"vector.h"
+	"hash_function.h"
+
+1531227136 c:\users\user\desktop\杜思佳\代码实现\mystl\include\hash_function.h
+
+1531240599 c:\users\user\desktop\杜思佳\代码实现\mystl\include\hash_set.h
+	"Allocator.h"
+	"Construct.h"
+	"UninitializedFunction.h"
+	"TypeTraits.h"
+	"Algorithm.h"
+	"Functional.h"
+	"hash_table.h"
+	"hash_function.h"
+
